@@ -186,11 +186,11 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/btn_."
+                android:id="@+id/btn_pon"
                 android:layout_width="wrap_content"
                 android:layout_height="80dp"
                 android:layout_weight="1"
-                android:text="@string/btn_." />
+                android:text="@string/btn_pon" />
 
             <Button
                 android:id="@+id/btn_zero"
